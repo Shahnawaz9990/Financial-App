@@ -1,0 +1,6 @@
+{
+  "name": "Ledgerly",
+  "description": "A private, mobile-friendly personal financial dashboard with automated inbox syncing and cash flow insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
